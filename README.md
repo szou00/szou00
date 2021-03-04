@@ -3,6 +3,7 @@
 I am a freshman at Boston University pursuing a BA in computer science. I am learning to to make the world a better place, one project at a time. I am currently seeking internships for Summer 2021!
 
 - :blush: Pronouns: she/her
+- 🌱 I’m currently learning geometric algorithms and computer systems
 - 🔭 I’m currently exploring Javascript and React
 - 👯 I’m looking to collaborate on side projects and hackathons -- don't hesitate to contact me if you'd like to learn and improve together. 
 - 📫 Reach me at sharonzou12@gmail.com
