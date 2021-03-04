@@ -4,7 +4,7 @@ I am a freshman at Boston University pursuing a BA in computer science. I am lea
 
 - :blush: Pronouns: she/her
 - 🔭 I’m currently exploring Javascript and React
-- 👯 I’m looking to collaborate on fun projects and hackathons -- don't hesitate to contact me if you'd like to learn and improve together. 
+- 👯 I’m looking to collaborate on side projects and hackathons -- don't hesitate to contact me if you'd like to learn and improve together. 
 - 📫 Reach me at sharonzou12@gmail.com
 
 **Get in touch:**
