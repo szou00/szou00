@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋 This is Sharon! :woman: :computer:
+
+I am a freshman at Boston University pursuing a BA in computer science. I want to learn how to make the world a better place, one project at a time. I am currently seeking internships for Summer 2021. 
+
+**Get in touch:**
+[![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/sharonzou1/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://github.com/szou00) 
+
+## Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=szou&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/szou/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=szou00&layout=compact)](https://github.com/szou00/github-readme-stats)
 
 <!--
 **szou00/szou00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
