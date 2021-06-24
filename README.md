@@ -1,6 +1,6 @@
 ### Hello there 👋 This is Sharon! :woman: :computer:
 
-I am a freshman at Boston University pursuing a BA in computer science. I am learning to to make the world a better place, one project at a time. I am currently seeking internships for Summer 2021!
+I am a freshman at Boston University pursuing a BA in computer science. 
 
 - :blush: Pronouns: she/her
 - 🌱 I’m currently learning geometric algorithms and computer systems
