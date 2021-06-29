@@ -1,10 +1,10 @@
 ### Hello there 👋 This is Sharon! :woman: :computer:
 
-I am a freshman at Boston University pursuing a BA in computer science. 
+I am a incoming sophomore at Boston University pursuing a BA in computer science. 
 
 - :blush: Pronouns: she/her
 - 🌱 I’m currently learning geometric algorithms and computer systems
-- 🔭 Outside of class, I am exploring Javascript and React
+- 🔭 Outside of class, I am exploring Javascript and Flask
 - 👯 I’m looking to collaborate on side projects and hackathons -- don't hesitate to contact me if you'd like to learn and improve together. 
 - 📫 Reach me at szou00@bu.edu
 
