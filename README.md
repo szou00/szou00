@@ -10,10 +10,6 @@ I am a incoming junior at Boston University pursuing a BA in computer science.
 **Get in touch:**
 [![Linkedin Badge](https://img.shields.io/badge/-sharonzou1-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharonzou1/)](https://www.linkedin.com/in/sharonzou1/) [![Github Badge](https://img.shields.io/badge/-szou00-grey?style=flat&logo=github&logoColor=white&link=https://github.com/szou00/)](https://github.com/szou00) 
 
-## Some of my Github Stats
-[![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=szou00)](https://github.com/szou00/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szou00&langs_count=8&layout=compact)](https://github.com/szou00/github-readme-stats)
-
 <!--
 **szou00/szou00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
