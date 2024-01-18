@@ -1,11 +1,6 @@
 ### Hello there 👋 This is Sharon! :woman: :computer:
 
-I am a incoming junior at Boston University pursuing a BA in computer science. 
-
-- :blush: Pronouns: she/her
-- 🌱 I’m currently exploring Typescript and React
-- 👯 I’m looking to collaborate on side projects and hackathons -- don't hesitate to contact me if you'd like to learn and improve together. 
-- 📫 Reach me at szou00@bu.edu
+I am a senior at Boston University pursuing a BA in computer science. 
 
 **Get in touch:**
 [![Linkedin Badge](https://img.shields.io/badge/-sharonzou1-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharonzou1/)](https://www.linkedin.com/in/sharonzou1/) [![Github Badge](https://img.shields.io/badge/-szou00-grey?style=flat&logo=github&logoColor=white&link=https://github.com/szou00/)](https://github.com/szou00) 
